@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HRSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB734D0-62B9-4CD3-AD8A-D3CA6806472D}|HRSystem\\HRSystem.csproj|d:\\hrsystem\\hrsystem\\subframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFB734D0-62B9-4CD3-AD8A-D3CA6806472D}|HRSystem\\HRSystem.csproj|solutionrelative:hrsystem\\subframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB734D0-62B9-4CD3-AD8A-D3CA6806472D}|HRSystem\\HRSystem.csproj|d:\\hrsystem\\hrsystem\\subframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFB734D0-62B9-4CD3-AD8A-D3CA6806472D}|HRSystem\\HRSystem.csproj|solutionrelative:hrsystem\\subframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AppTemplate||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB734D0-62B9-4CD3-AD8A-D3CA6806472D}|HRSystem\\HRSystem.csproj|d:\\hrsystem\\hrsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFB734D0-62B9-4CD3-AD8A-D3CA6806472D}|HRSystem\\HRSystem.csproj|solutionrelative:hrsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB734D0-62B9-4CD3-AD8A-D3CA6806472D}|HRSystem\\HRSystem.csproj|d:\\hrsystem\\hrsystem\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFB734D0-62B9-4CD3-AD8A-D3CA6806472D}|HRSystem\\HRSystem.csproj|solutionrelative:hrsystem\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB734D0-62B9-4CD3-AD8A-D3CA6806472D}|HRSystem\\HRSystem.csproj|d:\\hrsystem\\hrsystem\\framemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFB734D0-62B9-4CD3-AD8A-D3CA6806472D}|HRSystem\\HRSystem.csproj|solutionrelative:hrsystem\\framemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB734D0-62B9-4CD3-AD8A-D3CA6806472D}|HRSystem\\HRSystem.csproj|d:\\hrsystem\\hrsystem\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFB734D0-62B9-4CD3-AD8A-D3CA6806472D}|HRSystem\\HRSystem.csproj|solutionrelative:hrsystem\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB734D0-62B9-4CD3-AD8A-D3CA6806472D}|HRSystem\\HRSystem.csproj|d:\\hrsystem\\hrsystem\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "subFrame.cs",
+              "DocumentMoniker": "D:\\HRSystem\\HRSystem\\subFrame.cs",
+              "RelativeDocumentMoniker": "HRSystem\\subFrame.cs",
+              "ToolTip": "D:\\HRSystem\\HRSystem\\subFrame.cs",
+              "RelativeToolTip": "HRSystem\\subFrame.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:04:34.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frameModule.cs",
+              "DocumentMoniker": "D:\\HRSystem\\HRSystem\\frameModule.cs",
+              "RelativeDocumentMoniker": "HRSystem\\frameModule.cs",
+              "ToolTip": "D:\\HRSystem\\HRSystem\\frameModule.cs",
+              "RelativeToolTip": "HRSystem\\frameModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T01:59:57.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mainframe.cs",
+              "DocumentMoniker": "D:\\HRSystem\\HRSystem\\Mainframe.cs",
+              "RelativeDocumentMoniker": "HRSystem\\Mainframe.cs",
+              "ToolTip": "D:\\HRSystem\\HRSystem\\Mainframe.cs",
+              "RelativeToolTip": "HRSystem\\Mainframe.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T01:59:15.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HRSystem\\HRSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HRSystem\\Program.cs",
+              "ToolTip": "D:\\HRSystem\\HRSystem\\Program.cs",
+              "RelativeToolTip": "HRSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T01:53:35.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppTemplate",
+              "DocumentMoniker": "D:\\HRSystem\\HRSystem\\AppTemplate.csproj",
+              "RelativeDocumentMoniker": "HRSystem\\AppTemplate.csproj",
+              "ToolTip": "D:\\HRSystem\\HRSystem\\AppTemplate.csproj",
+              "RelativeToolTip": "HRSystem\\AppTemplate.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-21T01:53:24.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "subFrame.cs [Design]",
+              "DocumentMoniker": "D:\\HRSystem\\HRSystem\\subFrame.cs",
+              "RelativeDocumentMoniker": "HRSystem\\subFrame.cs",
+              "ToolTip": "D:\\HRSystem\\HRSystem\\subFrame.cs [Design]",
+              "RelativeToolTip": "HRSystem\\subFrame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T01:48:54.556Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mainframe.cs [Design]",
+              "DocumentMoniker": "D:\\HRSystem\\HRSystem\\Mainframe.cs",
+              "RelativeDocumentMoniker": "HRSystem\\Mainframe.cs",
+              "ToolTip": "D:\\HRSystem\\HRSystem\\Mainframe.cs [Design]",
+              "RelativeToolTip": "HRSystem\\Mainframe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T01:45:46.442Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
