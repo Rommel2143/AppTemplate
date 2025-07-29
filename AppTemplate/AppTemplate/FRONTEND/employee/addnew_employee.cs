@@ -26,6 +26,12 @@ namespace AppTemplate.FRONTEND.employee
             }
         }
 
-
+        private void addnew_employee_Load(object sender, EventArgs e)
+        {
+          
+            month_hired.SelectedItem = DateTime.Now.ToString("MMM");
+            day_hired.SelectedItem = DateTime.Now.ToString("dd");
+            year_hired.Text = DateTime.Now.ToString("yyyy");
+        }
     }
 }
